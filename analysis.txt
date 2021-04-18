@@ -1,0 +1,8 @@
+Observation 1
+Based on the plots of max temp in the northern and southern hemisphere we can see that temperature tends to increase the closer the latitude is to zero (the equator) 
+
+Observation 2
+The was no correlation between wind speed or cloudiness and latitude. This can be seen by the relevant plots.
+
+Observation 3
+IN the northern hemisphere all the low humidity points(less than 20) were near the equator while in the southern hemisphere there were no points of low humidity.
